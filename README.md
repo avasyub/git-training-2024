@@ -6,8 +6,5 @@ Vinit
 Shlok
 
 Trainees:
-<<<<<<< HEAD
 Anish
-=======
 Taha Adeel Mohammed
->>>>>>> original-repo/main
