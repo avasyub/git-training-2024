@@ -7,3 +7,4 @@ Shlok
 
 Trainees:
 Lovejeet Singh Parihar
+Taha Adeel Mohammed
