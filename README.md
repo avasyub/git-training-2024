@@ -6,8 +6,5 @@ Vinit
 Shlok
 
 Trainees:
-<<<<<<< HEAD
-Agamya Yadav
-=======
 Taha Adeel Mohammed
->>>>>>> 8041c9900635f8c27103e86f335951e2dbff9f10
+Agamya Yadav
