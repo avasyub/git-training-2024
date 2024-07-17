@@ -7,3 +7,5 @@ Shlok
 
 Trainees:
 Taha Adeel Mohammed
+
+Dhruv Sharma
