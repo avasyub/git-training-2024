@@ -6,4 +6,3 @@ Vinit
 Shlok
 
 Trainees:
-Chirag
