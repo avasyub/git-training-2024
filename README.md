@@ -6,4 +6,5 @@ Vinit
 Shlok
 
 Trainees:
+Yaswanth
 Taha Adeel Mohammed
