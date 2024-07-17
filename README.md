@@ -6,4 +6,7 @@ Vinit
 Shlok
 
 Trainees:
+
+Rajesh Penugonda
+
 Taha Adeel Mohammed
