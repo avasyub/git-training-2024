@@ -7,3 +7,4 @@ Shlok
 
 Trainees:
 Prakhar Saxena
+Taha Adeel Mohammed
