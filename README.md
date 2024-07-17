@@ -6,6 +6,5 @@ Vinit
 Shlok
 
 Trainees:
-Saurabh
-Tanmay
-Shlok
+
+Taha Adeel Mohammed
