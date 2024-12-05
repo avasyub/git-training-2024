@@ -6,4 +6,5 @@ Vinit
 Shlok
 
 Trainees:
+Anish
 Taha Adeel Mohammed
